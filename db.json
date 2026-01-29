@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Carrot",
-    "image": "https://stock.adobe.com/images/single-carrot-cut-out/234504649",
+    "image": "https://raw.githubusercontent.com/Prabin-karka/veg_images/refs/heads/main/carrot.avif",
     "price": 50,
     "discount": 15,
     "description": "Carrots improve eyesight and boost immunity.",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Onion",
-    "image": "https://stock.adobe.com/images/fresh-and-organic-onion-isolated-on-transparent-background-in-high-resolution-png/643532526",
+    "image": "https://raw.githubusercontent.com/Prabin-karka/veg_images/refs/heads/main/onion.avif",
     "price": 45,
     "discount": 12,
     "description": "Onions help control blood sugar levels.",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Cabbage",
-    "image": "https://stock.adobe.com/images/png-fresh-cabbage-vegetable-yellow-plant/1473212486",
+    "image": "https://raw.githubusercontent.com/Prabin-karka/veg_images/refs/heads/main/cabagge.avif",
     "price": 35,
     "discount": 10,
     "description": "Cabbage improves digestion.",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "Cauliflower",
-    "image": "https://stock.adobe.com/images/front-view-of-an-extremely-perfect-looking-single-cauliflower-head-isolated-on-a-white-transparent-background/1126275795",
+    "image": "https://raw.githubusercontent.com/Prabin-karka/veg_images/refs/heads/main/cauliflower.avif",
     "price": 55,
     "discount": 15,
     "description": "Cauliflower is rich in antioxidants.",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Beans",
-    "image": "https://stock.adobe.com/images/green-kidney-bean-on-white-background/550215912",
+    "image": "https://raw.githubusercontent.com/Prabin-karka/veg_images/refs/heads/main/beans.avif",
     "price": 60,
     "discount": 20,
     "description": "Beans are high in protein.",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "Brinjal",
-    "image": "https://stock.adobe.com/images/isolated-eggplant-one-fresh-eggplant-over-white-background-with-clipping-path/69190946",
+    "image": "https://raw.githubusercontent.com/Prabin-karka/veg_images/refs/heads/main/brinjal.avif",
     "price": 40,
     "discount": 10,
     "description": "Brinjal helps improve heart health.",
