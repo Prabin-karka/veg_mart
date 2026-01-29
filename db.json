@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Tomato",
-    "image": "https://stock.adobe.com/search?k=single+vegetable",
+    "image": "https://images.unsplash.com/photo-1643926544872-dbcd8805e870?q=80&w=1190&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "price": 40,
     "discount": 20,
     "description": "Tomatoes are rich in Vitamin C and good for skin health.",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Potato",
-    "image": "https://stock.adobe.com/images/a-close-up-photograph-of-a-single-fresh-whole-unprocessed-potato-the-vegetable-is-slightly-oval-in-shape-and-has-a-light-brown-skin-with-small-eyes-the-isolated-object-is-on-a-white-background/1581157980",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "price": 30,
     "discount": 10,
     "description": "Potatoes give instant energy and are rich in fiber.",
